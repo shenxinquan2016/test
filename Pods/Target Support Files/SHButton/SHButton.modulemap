@@ -1,0 +1,6 @@
+framework module SHButton {
+  umbrella header "SHButton-umbrella.h"
+
+  export *
+  module * { export * }
+}

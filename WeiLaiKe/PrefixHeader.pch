@@ -1,0 +1,22 @@
+//
+//  PrefixHeader.pch
+//  WeiLaiKe
+//
+//  Created by 沈昕权 on 2017/6/19.
+//  Copyright © 2017年 广西实天科技有限公司. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <libextobjc/EXTScope.h>
+#import <HexColors/HexColors.h>
+#import <SDWebImage/UIImageView+WebCache.h>
+#import <Masonry/Masonry.h>
+#import <SHButton/SHButton.h>
+#import "STConfig.h"
+#import "UIColor+ST.h"
+#import "STConstants.h"
+#import "LoadingAnimations.h"
+
+#endif /* PrefixHeader_pch */
